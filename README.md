@@ -1,7 +1,10 @@
 # Venkatesh Palli - Portfolio
 
 ## 👨‍🎓 About Me
-MCA student passionate about software development and problem solving.
+​"I am a Master of Computer Applications (MCA) student with a passion for building scalable software solutions and exploring modern tech stacks. My journey is driven by a curiosity for how complex systems work and a commitment to continuous learning.
+​ Currently Learning: Advanced Data Structures, Cloud Computing, and Backend Architecture.
+​ Tech Stack: Python, Java, SQL, and Git.
+​ Goal: To contribute to open-source projects and build tools that solve real-world problems."
 ## 🛠️ My Tech Stack
 
 <table>
